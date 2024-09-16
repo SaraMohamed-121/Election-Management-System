@@ -19,10 +19,10 @@ The **Election Management System** is a secure platform for managing elections. 
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/138091fd-cbb4-4a34-8e3c-ac6b8ac3d7bc" width="300" />
-  <img src="https://github.com/user-attachments/assets/0d444b95-104b-47a2-965d-e0afe8a43281" width="300" />
   <img src="https://github.com/user-attachments/assets/3e3bdba1-974b-41ff-91a5-a1467cd67af6" width="300" />
 </p>
-
-
-
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d444b95-104b-47a2-965d-e0afe8a43281" width="300" />
+</p>
 
