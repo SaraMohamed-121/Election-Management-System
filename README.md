@@ -1,4 +1,4 @@
-# Election Management System
+# **Election Management System**
 
 ### Overview
 The **Election Management System** is a secure platform for managing elections. It enables voter registration, candidate management, election setup, and real-time vote counting.
@@ -9,7 +9,7 @@ The **Election Management System** is a secure platform for managing elections. 
 - **Secure Voting & Real-time Results**
 - **Admin Dashboard**
 
-# **using GUI, Crystal Report, C#, MySQL**
+# using GUI, Crystal Report, C#, MySQL
 
 ### Some Snapshots
 
